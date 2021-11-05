@@ -1,0 +1,10 @@
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\bin\Debug\Copy_Files.exe.config
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\bin\Debug\Copy_Files.exe
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\bin\Debug\Copy_Files.pdb
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.csprojAssemblyReference.cache
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.Form1.resources
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.Properties.Resources.resources
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.csproj.GenerateResource.cache
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.csproj.CoreCompileInputs.cache
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.exe
+C:\Users\WILL\Desktop\Sunshine\Copy_Files\Copy_Files\obj\Debug\Copy_Files.pdb
